@@ -60,11 +60,11 @@ body::before {
 }
 
 #right {
-  right: calc(15vw - 65px);
+  right: calc(15vw - 69px);
 }
 
 .left-arrow {
-  left: calc(15vw - 65px);
+  left: calc(15vw - 69px);
 }
 
 .arrow:focus {
